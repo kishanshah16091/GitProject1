@@ -5,6 +5,10 @@ public class hWCode {
         for (int i = 0; i < 101; i++) {
 
             System.out.println(i);
+        }
+        System.out.println("***********************************************************************");
+        for (int i = 0; i < 51; i++) {
+            System.out.println(i);
 
         }
     }
