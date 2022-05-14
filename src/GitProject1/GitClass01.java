@@ -5,5 +5,8 @@ public class GitClass01 {
         System.out.println("It's my first Git class");
         System.out.println("It's my second Git class");
         System.out.println("It's my third Git class");
+
+        System.out.println("I am correct code");
+
     }
 }
